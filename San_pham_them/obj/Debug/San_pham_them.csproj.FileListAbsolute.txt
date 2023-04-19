@@ -1,0 +1,10 @@
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\bin\Debug\San_pham_them.exe.config
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\bin\Debug\San_pham_them.exe
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\bin\Debug\San_pham_them.pdb
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\obj\Debug\San_pham_them.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\obj\Debug\San_pham_them.Form1.resources
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\obj\Debug\San_pham_them.Properties.Resources.resources
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\obj\Debug\San_pham_them.csproj.GenerateResource.cache
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\obj\Debug\San_pham_them.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\obj\Debug\San_pham_them.exe
+C:\Users\trung\source\repos\San_pham_them\San_pham_them\obj\Debug\San_pham_them.pdb
